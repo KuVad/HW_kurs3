@@ -9,7 +9,7 @@ if(a > b)
 {
     Console.WriteLine($"Наибольшее число : {a}");
 }
-if(a < b)
+else
 {
     Console.WriteLine($"Наибольшее число : {b}");
 }
